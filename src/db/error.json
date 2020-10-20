@@ -1,0 +1,9 @@
+
+    {
+        "timestamp": "2020-07-28T23:29:24.810+0000",
+        "status": 401,
+        "error": "Unauthorized",
+        "message": "Error: Unauthorized",
+        "path": "/api/auth/signin"
+      }
+

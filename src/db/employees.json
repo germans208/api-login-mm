@@ -1,0 +1,56 @@
+[
+     {
+
+        "id": 1,
+        "documentNumber": 33633264,
+        "documentType": "DNI",
+        "fullName": "Pablo Settino",
+        "email": "psettino@gmail.com",
+        "startDate": "2010-08-30T00:00:00.000+0000",
+        "endDate": null,
+        "status": true,
+        "role": "GERENTE",
+        "address": {
+          "address": "Murguindo y Ercilla",
+          "city": "CABA",
+          "country": "Buenos Aires",
+          "postalCode": "1440"
+        },
+        "telephones": [
+          "155808495",
+          "46351267"
+        ],
+        "cuil": "20336332649",
+        "birthday": "1988-04-30T00:00:00.000+0000",
+        "shiftId": 1,
+        "imageProfile": "assets/img/profile/33633264/profile.png",
+        "comments": "Comentario de prueba"
+      },
+      {
+        "id": 2,
+        "documentNumber": 33633265,
+        "documentType": "DNI",
+        "fullName": "Germán Settino",
+        "email": "german.settino@gmail.com",
+        "startDate": "2010-08-30T00:00:00.000+0000",
+        "endDate": null,
+        "status": true,
+        "role": "JEFE",
+        "address": {
+          "address": "Zelada 5857",
+          "city": "CABA",
+          "country": "Buenos Aires",
+          "postalCode": "1440"
+        },
+        "telephones": [
+          "155808495",
+          "46351267"
+        ],
+        "cuil": "20336332657",
+        "birthday": "1988-04-30T00:00:00.000+0000",
+        "shiftId": 1,
+        "imageProfile": "assets/img/profile/33633265/profile.png",
+        "comments": "Comentario de prueba"
+      }
+
+    ]
